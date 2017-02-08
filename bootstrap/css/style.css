@@ -1,0 +1,13 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.title-super {
+    font-weight: 100;
+}
+
+.logo {
+    width: 200px;
+    height: 100;
+}
